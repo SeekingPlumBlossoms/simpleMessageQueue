@@ -34,7 +34,7 @@ public class Broker {
             System.out.println("消息处理中心内没有消息可供消费");
         }
 
-        System.out.println("=================================================");
+        System.out.println("======================================================");
         return msg;
 
     }
